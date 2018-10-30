@@ -11,10 +11,7 @@
                 <div class="title">经销商-<span>订单数量排名</span><em></em></div>
                  <div class="chart_label" id="x1">
                     <div class="txt">经销商经销商经销商经销商经销商经销商</div>
-                    <div class="txt">经销商经销商经销商经销商经销商经销商</div>
-                    <div class="txt">经销商经销商经销商经销商经销商经销商</div>
-                    <div class="txt">经销商经销商经销商经销商经销商经销商</div>
-                    <div class="txt">经销商经销商经销商经销商经销商经销商</div>
+
                 </div>
             </div>
 
